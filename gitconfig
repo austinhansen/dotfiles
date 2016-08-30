@@ -16,7 +16,7 @@
   excludesfile = ~/.gitignore
 	autocrlf = input
 [user]
-	name = Matthew Lehner
-	email = matthew@mpl.io
+	name = Austin Hansen
+	email = austintatious@gmail.com
 [credential]
 	helper = osxkeychain

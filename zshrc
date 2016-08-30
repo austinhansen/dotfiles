@@ -47,12 +47,12 @@ if [ -s "/usr/local/opt/nvm/nvm.sh" ] ; then
   source /usr/local/opt/nvm/nvm.sh
 fi
 
-[ -s "~/Users/matthew/.secrets" ] && source "/Users/matthew/.secrets"
+[ -s "~/Users/austin/.secrets" ] && source "/Users/austin/.secrets"
 
 # SCM Shortcuts
-[ -s "/Users/matthew/.scm_breeze/scm_breeze.sh" ] && source "/Users/matthew/.scm_breeze/scm_breeze.sh"
+[ -s "/Users/austin/.scm_breeze/scm_breeze.sh" ] && source "/Users/austin/.scm_breeze/scm_breeze.sh"
 eval "$(scmpuff init -s)"
 
 
-[ -s "/Users/matthew/.iterm2_shell_integration" ] && source /Users/matthew/.iterm2_shell_integration.zsh
+[ -s "/Users/austin/.iterm2_shell_integration" ] && source /Users/austin/.iterm2_shell_integration.zsh
 [ -s "/usr/local/share/zsh/site-functions" ] && source /usr/local/share/zsh/site-functions
